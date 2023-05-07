@@ -1,0 +1,12 @@
+Run in Nohup (nohup python3 Clock_Main.py)
+Command has to be typed twice
+
+
+Menu:
+Set Time
+Set Alarm
+Shutdown
+Restart
+Inactivity
+Display
+Exit
